@@ -1,0 +1,10 @@
+{
+  "subdomain": "gashvpn",
+  "domain": "thedev.me",
+  "email_or_discord": "gaug2521937@gmail.com",
+  "github_username": "gaug2521937-droid",
+  "description": "Landing + Telegram Mini App for a VPN service bot project",
+  "records": {
+    "CNAME": "gash-vpn-bot.onrender.com"
+  }
+}
